@@ -1,0 +1,31 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap'); */
+
+@import url("https://fonts.googleapis.com/css2?family=Outfit&family=PT+Mono&display=swap");
+
+body {
+  margin: 0;
+  font-family: "PT Mono", monospace !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*background: linear-gradient(
+    135deg,
+    #061453,
+    #010222,
+    #1b2c04
+  );*/
+
+ 
+
+
+
+
+
+/*background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));*/
+background-image: linear-gradient(to right, #011e35, #082c46);
+/*background-color: white;*/
+
+}
+
+*{
+  color : yellow !important; 
+}
