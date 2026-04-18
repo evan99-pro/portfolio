@@ -3,7 +3,6 @@
   to = "/index.html"
   status = 200
 
-# Optionnel : pour améliorer la performance
 [build]
-  command = "npm run build"
+  command = "CI=false npm run build"
   publish = "build"
